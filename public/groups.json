@@ -377,6 +377,9 @@
           "path": "json/right_option_fn.json"
         },
         {
+          "path": "json/right_option_plus_hjkl_to_arrows.json"
+        },
+        {
           "path": "json/rk_windows-ified_custom_mappings.json"
         }
       ]
